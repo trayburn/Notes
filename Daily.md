@@ -1,5 +1,3 @@
-# Daily Journal
-
 ## I am grateful for ...
 
 1. x
