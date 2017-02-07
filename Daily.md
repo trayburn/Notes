@@ -4,7 +4,7 @@
 1. x
 1. x
 
-## What would make today great?
+## What will I do to make today great?
 
 1. x
 1. x
