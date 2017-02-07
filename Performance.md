@@ -17,43 +17,22 @@
 1. Further contemplation needed on? (optional)
 1. Action - My next step is / Next time I will
 
+## Possible Feelings
 
-Possible Feelings
-Angry
-Defensive
-In Flow
-Pessimistic
-Anxious
-Disappointed
-Inspired
-Proud
-Appreciated
-Embarrassed
-Irritated
-Relaxed
-Brave
-Enthusiastic
-Liberated
-Sad
-Burned Out
-Excited
-Loving
-Satisfied
-Calm
-Frustrated
-Non-attached
-Stressed
-Confident
-Grateful
-Open
-Supported
-Conflicted
-Happy
-Optimistic
-Unappreciated
-Confused
-Hurt
-Passionate
-Vulnerable
+| Feelings            | Feelings               | Feelings         |
+| ------------------- | ---------------------- | ---------------- |
+| Angry               | Defensive              | In Flow          |
+| Pessimistic         | Anxious                | Disappointed     |
+| Inspired            | Proud                  | Appreciated      |
+| Embarrassed         | Irritated              | Relaxed          |
+| Brave               | Enthusiastic           | Liberated        |
+| Sad                 | Burned Out             | Excited          |
+| Loving              | Satisfied              | Calm             |
+| Frustrated          | Non-attached           | Stressed         |
+| Confident           | Grateful               | Open             |
+| Supported           | Conflicted             | Happy            |
+| Optimistic          | Unappreciated          | Confused         |
+| Hurt                | Passionate             | Vulnerable       |
+
 
 
